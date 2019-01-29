@@ -5,7 +5,10 @@ This is an academic project, done under the supervision of prof.Mohamed Anis Ben
 in the report file you will find a (french) report explaining the algorithm step by step with all math needed.
 
 
-the LSM.py file contains the actual implementation of the algorithm (commented step by step); the file you need to run.
+The LSM.py file contains the actual implementation of the algorithm (commented step by step); the file you need to run.
 
 
-the functions.py file is contains some functions that the algorithm calls(commented step by step).
+The functions.py file is contains some functions that the algorithm calls(commented step by step).
+
+
+# if you like it star it ;p 
