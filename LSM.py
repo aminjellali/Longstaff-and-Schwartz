@@ -38,7 +38,7 @@ for time in range (0,numberOftimePeriods + 1):
             cash_flow_matrix[time][path_in_time] =(
             K - stock_price[time][path_in_time])
 print('Entering loop...')
-# stating the loop
+# starting the loop
 for time in range (numberOftimePeriods-1, 0, -1):
     print('Remaining calculations: ',time)
     # fetch the last cash flow for in the money paths
